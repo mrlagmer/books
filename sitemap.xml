@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/post/good-to-great/</loc>
+    <loc>http://pharmacist-duck-60163.netlify.com/post/good-to-great/</loc>
     <lastmod>2017-03-23T14:46:46+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://pharmacist-duck-60163.netlify.com/post/</loc>
     <lastmod>2017-03-23T14:46:46+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://pharmacist-duck-60163.netlify.com/</loc>
     <lastmod>2017-03-23T14:46:46+11:00</lastmod>
     <priority>0</priority>
   </url>
