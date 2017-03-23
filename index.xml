@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stu Book Reviews </title>
+    <title>Stu Book Reviews</title>
     <link>http://pharmacist-duck-60163.netlify.com/index.xml</link>
+    <description>Recent content on Stu Book Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Stuart Mitchell</author>
-    <rights>(C) 2017</rights>
-    <updated>2017-03-23 14:46:46 &#43;1100 AEDT</updated>
-
+    <lastBuildDate>Thu, 23 Mar 2017 14:46:46 +1100</lastBuildDate>
+    <atom:link href="http://pharmacist-duck-60163.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>good to great</title>
+      <link>http://pharmacist-duck-60163.netlify.com/post/good-to-great/</link>
+      <pubDate>Thu, 23 Mar 2017 14:46:46 +1100</pubDate>
       
-        <item>
-          <title>good to great</title>
-          <link>http://pharmacist-duck-60163.netlify.com/post/good-to-great/</link>
-          <pubDate>Thu, 23 Mar 2017 14:46:46 AEDT</pubDate>
-          <author>Stuart Mitchell</author>
-          <guid>http://pharmacist-duck-60163.netlify.com/post/good-to-great/</guid>
-          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
+      <guid>http://pharmacist-duck-60163.netlify.com/post/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
-
   </channel>
 </rss>
